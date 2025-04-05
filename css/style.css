@@ -1343,8 +1343,8 @@ footer {
     }
 
     .hero-image-container {
-        width: 250px;
-        height: 250px;
+        width: auto;
+        height: auto;
     }
 
     .about-image-container {
